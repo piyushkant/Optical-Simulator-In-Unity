@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{90E05E9A-9609-62CE-73F8-D350782DBBD6}") = "RayTracing", "RayTracing.csproj", "{7DB067E9-A0A5-432E-A2FD-3AE35E63B684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB067E9-A0A5-432E-A2FD-3AE35E63B684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB067E9-A0A5-432E-A2FD-3AE35E63B684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB067E9-A0A5-432E-A2FD-3AE35E63B684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB067E9-A0A5-432E-A2FD-3AE35E63B684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
